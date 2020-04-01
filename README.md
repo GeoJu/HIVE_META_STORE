@@ -1,7 +1,7 @@
 # HIVE_META_STORE
 HIVE TABLE TOTAL STAT AND AUTO ANALYZE PROCESS
 
-- CK_STAT : 
+- HIVE_STAT : 
    1. DB기준 : 전체 테이블 수, 연계중인 테이블수, 전체 컬럼수, 연계중인 컬럼 수, 레코드 수, 용량 산출 
   - 전체 시스템(DB)별 데이터 현황을 체크 할 수 있다.  
   - 데이터 연계 프로젝트라면 연계 현황을 한눈에 파악이 가능하다. 
